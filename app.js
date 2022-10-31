@@ -30,4 +30,10 @@ function PageTransition(){
 
 }
 
+function SendMessagePressed(){
+    let btn_send_form = document.querySelector('.Send-btn');
+    console.log( btn_send_form );
+    btn_send_form.click();
+}
+
 PageTransition();
