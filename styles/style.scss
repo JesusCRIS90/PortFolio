@@ -449,6 +449,11 @@ section{
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2rem;
     margin-top: 3rem;
+    
+    #item4{
+        visibility: hidden;
+    }
+    
     .portfolio-item{
         position: relative;
         img{

@@ -420,6 +420,9 @@ section {
   grid-gap: 2rem;
   margin-top: 3rem;
 }
+.portfolio-container #item4 {
+  visibility: hidden;
+}
 .portfolio-container .portfolio-item {
   position: relative;
 }
